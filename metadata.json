@@ -1,0 +1,6 @@
+{
+  "name": "Copy of AudioBeat Visualizer",
+  "description": "An interactive audio player that visualizes music with linear and circular bar graphs reacting to the beat. Upload your audio file and see the rhythm come alive.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
